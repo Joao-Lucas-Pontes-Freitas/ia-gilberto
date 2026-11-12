@@ -1,0 +1,6 @@
+.venv/
+*/dados
+*.pdf
+*/relatorio
+*.zip
+*.rar
